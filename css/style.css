@@ -1,0 +1,184 @@
+.header-info {
+    background-color: black;
+    padding: 10px 0;
+}
+
+.header-info-content {
+    color: white;
+}
+
+.header-info-content-login {
+    text-align:  right;
+}
+
+.header-info-content-login
+ button {
+    color: white;
+   background-color: transparent;
+   border: none;
+}
+
+.login-container {
+    margin-top: 30px;
+    padding:  0 !important;
+}
+
+.login-container form label {
+    display:  block;
+}
+
+.login-container form input {
+    width: 100%;
+    padding: 5px;
+}
+
+.login-container form .input-container {
+    margin-bottom: 15px;
+}
+
+.login-container input[type=submit] {
+    background:  black;
+    color:  white;
+    border:  none;
+}
+
+.header-title {
+    margin-top: 50px;
+}
+
+.header-title h1 {
+    border-bottom:  1px solid grey;
+    margin:  auto;
+    width:  fit-content;
+    padding: 15px;
+    color:  black;
+}
+
+.header-title h2 {
+    margin:  auto;
+    width:  fit-content;
+    color:  grey;
+    margin-top: 10px;
+}
+
+.navigation {
+    background-color: black;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.navigation ul {
+    padding: 0;
+    margin: 0;
+}
+
+.navigation ul li {
+    display:  inline-block;
+    padding: 5px 15px;
+    border-right: 1px solid white;
+    color: white;
+}
+
+.navigation ul li:last-child {
+    border-right: none;
+}
+
+.navigation ul li a,
+.navigation ul li a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.login-container form {
+    width: 50%;
+}
+
+.page-title {
+}
+
+.room-container img {
+    width: 100%;
+}
+
+.homepage-rooms {
+    margin-top: 100px;
+}
+
+.room-container a {
+    background-color:  black;
+    padding: 10px 0;
+    width: 100%;
+    display:  inline-block;
+    text-align:  center;
+}
+
+.room-container ul {
+    margin: 15px 0;
+    padding-left: 0;
+}
+
+.modal-body {
+    display:  inline-block;
+}
+
+div#reservation-modal label {
+    display:  block;
+}
+
+div#reservation-modal input,
+div#login-modal input {width:  100%;padding: 5px;margin-bottom: 15px;border-radius: 4px;border: 1px solid #e5e5e5;}
+
+label {}
+
+div#reservation-modal .email {
+    float: none;
+    clear:  both;
+}
+
+.room-container button {
+    background-color: #e5e5e5;
+    border: none;
+    padding: 5px 0;
+    width: 100%;
+}
+
+.footer {
+    background-color:  black;
+    color:  white;
+    padding:  30px 0;
+    margin-top: 100px;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer-right {
+    text-align: right;
+}
+
+.slider img {
+    height: 450px;
+    width:  100%;
+    object-fit:  cover;
+}
+
+.room-container h5 {
+    font-weight: bold;
+}
+
+.room-container li {
+    list-style: none;
+}
+
+.message-prijava, .message-registracija {
+    display: inline-block;
+    width: 100%;
+    padding-left: 15px;
+}
+
+.header-info-content-login input {
+    background-color:  transparent;
+    border: none;
+}

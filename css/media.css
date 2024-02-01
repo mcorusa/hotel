@@ -1,0 +1,13 @@
+@media screen and (max-width: 380px){
+    }
+        .footer-left col-sm-6{
+        text-align: right;
+    }
+        .footer-right col-sm-6{
+         float: right;
+        }
+        
+
+
+    
+}
